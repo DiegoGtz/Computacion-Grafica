@@ -1,5 +1,5 @@
-# Computacion-Grafica
-Curso de Computación Gráfica CS- UNSA
+# Thresholding
+
 
 ## Ejercicio 3
 *Desarrolle un programa que segmente las cosechas de trigo (campos amarillos) en la imagen satelital.*
